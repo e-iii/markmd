@@ -2,3 +2,68 @@
     font-family: "Inter Tight";
     src: url("../assets/fonts/ui/InterTight.woff2");
 }
+
+@font-face {
+    font-family: "DM Sans";
+    src: url("../assets/fonts/markdown/dm/DMSans.woff2");
+}
+
+@font-face {
+    font-family: "DM Sans Italic";
+    src: url("../assets/fonts/markdown/dm/DMSansItalic.woff2");
+}
+
+@font-face {
+    font-family: "DM Mono";
+    src: url("../assets/fonts/markdown/dm/DMMono.woff2");
+}
+
+@font-face {
+    font-family: "DM Mono Italic";
+    src: url("../assets/fonts/markdown/dm/DMMonoItalic.woff2");
+}
+
+@font-face {
+    font-family: "Geist";
+    src: url("../assets/fonts/markdown/geist/Geist.woff2");
+}
+
+@font-face {
+    font-family: "Geist Mono";
+    src: url("../assets/fonts/markdown/geist/GeistMono.woff2");
+}
+
+@font-face {
+    font-family: "IBM Plex Sans";
+    src: url("../assets/fonts/markdown/ibm/IBMPlexSans.woff2");
+}
+
+@font-face {
+    font-family: "IBM Plex Sans Italic";
+    src: url("../assets/fonts/markdown/ibm/IBMPlexSansItalic.woff2");
+}
+
+@font-face {
+    font-family: "IBM Plex Mono";
+    src: url("../assets/fonts/markdown/ibm/IBMPlexMono.woff2");
+}
+
+@font-face {
+    font-family: "IBM Plex Mono Italic";
+    src: url("../assets/fonts/markdown/ibm/IBMPlexMonoItalic.woff2");
+}
+
+@font-face {
+    font-family: "Space Grotesk";
+    src: url("../assets/fonts/markdown/space/SpaceGrotesk.woff2");
+}
+
+@font-face {
+    font-family: "Space Mono";
+    src: url("../assets/fonts/markdown/space/SpaceMono.woff2");
+}
+
+@font-face {
+    font-family: "Space Mono Italic";
+    src: url("../assets/fonts/markdown/space/SpaceMonoItalic.woff2");
+}
